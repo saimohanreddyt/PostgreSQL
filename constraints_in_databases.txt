@@ -1,0 +1,19 @@
+NOT NULL
+--------
+Ensures that a NULL value cannot be stored in a column
+
+UNIQUE
+------
+This constraint makes sure that all the values in a column are different.
+
+CHECK
+-----
+This constraint ensures that all the values in a column satisfy a specific condition
+
+DEFAULT
+-------
+This constraint cosists of a set of default values for a column when no value is speified.
+
+INDEX
+-----
+This constraint is used to create and retrieve data from the database very quickly.

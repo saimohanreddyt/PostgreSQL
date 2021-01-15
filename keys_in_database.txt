@@ -1,0 +1,15 @@
+
+
+Candidate key
+
+
+Super Key
+
+
+Primary Key
+
+
+Alternate Key
+
+
+Foreign Key

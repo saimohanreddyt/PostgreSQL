@@ -1,0 +1,16 @@
+
+hierarchical database
+---------------------
+A hierarchical database model is a data model in which the data are organized into a tree-like structure. The data are stored as records which are connected to one another through links. A record is a collection of fields, with each field containing only one value.
+
+Network database
+----------------
+Network database management systems (Network DBMSs) are based on a network data model that allows each record to have multiple parents and multiple child records. A network database allows flexible relationship model between entities. ... The result is a faster data access, search, and navigation.
+
+Relational database
+-------------------
+A relational database is a collection of data items with pre-defined relationships between them. These items are organized as a set of tables with columns and rows. Tables are used to hold information about the objects to be represented in the database.
+
+object-oriented database 
+------------------------
+An object-oriented database (OODBMS) or object database management system (ODBMS) is a database that is based on object-oriented programming (OOP). The data is represented and stored in the form of objects. OODBMS are also called object databases or object-oriented database management systems.

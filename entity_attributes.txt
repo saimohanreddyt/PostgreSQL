@@ -1,0 +1,46 @@
+
+Composite attribute
+-------------------
+A composite attribute can be divided into smaller subparts. These subparts represent individual basic attributes with their own meanings.
+
+vs
+
+Simple attribute
+----------------
+Attributes which are not divisible are simply known as simple or atomic attributes.
+
+
+
+
+
+Single-valued attributes
+------------------------
+Attributes having single value for a particular entity are known as single-valued attributes.
+
+vs
+
+Multivalued attributes
+----------------------
+A multivalued attributes may have lower and upper bounds to constrain the number of values allowed for each individual entity.
+
+
+
+
+Derived attributes
+------------------
+Attributes which are derived from the real entities are known as derived attributes.
+
+vs
+
+Stored attributes
+-----------------
+The stored attributes are such attributes which are already stored in the database and from which the value of another attribute is derived is called stored attribute.
+
+
+
+
+Complex attributes
+------------------
+Attributes that can be represented by grouping composite attributes between (), seperating the components with commas, nad by displaying the multivalued attributes between [] are known as complex attributes.
+
+	ex: {Address_phone({Phone(Area_code,Phone_number)},Address(Street_address{Number,Street,flat_number),City,State,Zp))}

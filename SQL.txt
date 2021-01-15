@@ -1,0 +1,7 @@
+A standardized programming language which is used for managing relational databases.
+
+With SQL, you can modify databases, add, update or delete rows of data, retrieve subsets of information from a database and, any more actions.
+
+Relational databases like MySQL Databases, oracle, Ms SQL Server, Sybase etc use SQL.
+
+Queries and other SQL operations are written as statements. Example: select, insert, add, update, delete, create, alter, truncate.
